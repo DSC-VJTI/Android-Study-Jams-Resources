@@ -1,5 +1,8 @@
 # Android-Study-Jams-Resources
 
+Main Website<br>
+<a href="g.co/android/studyjams" target="_blank">g.co/android/studyjams</a>
+ 
 Resources and Introduction<br>
 <a href="https://docs.google.com/document/d/1lSjvcoQS1f2HddIF67BQx0b8adInJKwOLk8qGfATTO8/edit?usp=sharing" target="_blank">https://docs.google.com/document/d/1lSjvcoQS1f2HddIF67BQx0b8adInJKwOLk8qGfATTO8/edit?usp=sharing</a>
 
