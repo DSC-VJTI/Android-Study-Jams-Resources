@@ -1,7 +1,7 @@
 # Android-Study-Jams-Resources
 
 Main Website<br>
-<a href="g.co/android/studyjams">g.co/android/studyjams</a>
+<a href="https://g.co/android/studyjams">g.co/android/studyjams</a>
  
 Timeline for Android Study Jams:
 25th Nov, 2020 - 25th Jan, 2021
