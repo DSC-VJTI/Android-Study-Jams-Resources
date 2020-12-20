@@ -6,14 +6,12 @@ Main Website<br>
 Timeline for Android Study Jams:
 25th Nov, 2020 - 25th Jan, 2021
 
-Resources and Introduction<br>
-<a href="https://docs.google.com/document/d/1lSjvcoQS1f2HddIF67BQx0b8adInJKwOLk8qGfATTO8/edit?usp=sharing" target="_blank">https://docs.google.com/document/d/1lSjvcoQS1f2HddIF67BQx0b8adInJKwOLk8qGfATTO8/edit?usp=sharing</a>
+<a href="https://docs.google.com/document/d/1lSjvcoQS1f2HddIF67BQx0b8adInJKwOLk8qGfATTO8/edit?usp=sharing" target="_blank"> Resources and Introduction </a>
 
-Link for Doubts<br>
-<a href="https://bit.ly/kotlin-doubts" target="_blank">https://bit.ly/kotlin-doubts</a>
+<a href="https://bit.ly/kotlin-doubts" target="_blank">Doubts Link</a>
 
-PPT Session 1<br>
-<a href="https://docs.google.com/presentation/d/1o77Ebe0AghVqOc73tqYNLj64v3zwxrHH8-yUNGyR-7M/edit?usp=sharing">https://docs.google.com/presentation/d/1o77Ebe0AghVqOc73tqYNLj64v3zwxrHH8-yUNGyR-7M/edit?usp=sharing</a>
+<a href="https://docs.google.com/document/d/18X2HasaeeoCNpyIigaUtoxZ4UUPn8lxBtiRD3EARnzQ/edit?usp=sharing"
+ target="_blank">PPTs of Android Study Jams Conducted by VJTI</a>
 
 Kotlin Vocabulary Articles
 https://medium.com/androiddevelopers/tagged/kotlin-vocabulary
