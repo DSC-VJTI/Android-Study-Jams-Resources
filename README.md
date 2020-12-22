@@ -21,7 +21,7 @@ Timeline for Android Study Jams:
 <a href="https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_T0fSZc9obnmnWcjvmJdw_"
  target="_blank">Kotlin Vocabulary Videos</a>
 
-<a href="https://developer.android.com/"https://developer.android.com/
+<a href="https://developer.android.com/"https://developer.android.com/"
  target="_blank">Official Android Developers Website</a>
 
 <a href="https://android-developers.googleblog.com"
