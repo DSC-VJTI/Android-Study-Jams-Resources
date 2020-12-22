@@ -15,26 +15,34 @@ Timeline for Android Study Jams:
 <a href="https://docs.google.com/document/d/18X2HasaeeoCNpyIigaUtoxZ4UUPn8lxBtiRD3EARnzQ/edit?usp=sharing"
  target="_blank">PPTs and Recording of Android Study Jams Conducted by VJTI</a>
 
-Kotlin Vocabulary Articles
-https://medium.com/androiddevelopers/tagged/kotlin-vocabulary
+<a href="https://medium.com/androiddevelopers/tagged/kotlin-vocabulary"
+ target="_blank"> Kotlin Vocabulary Articles </a>
 
-Kotlin Vocabulary Videos
-https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_T0fSZc9obnmnWcjvmJdw_
+<a href="https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_T0fSZc9obnmnWcjvmJdw_"
+ target="_blank">Kotlin Vocabulary Videos</a>
 
-Official Android Developers Website
-https://developer.android.com/
+<a href="https://developer.android.com/"https://developer.android.com/
+ target="_blank">Official Android Developers Website</a>
 
-YouTube
-https://www.youtube.com/user/androiddevelopers
+<a href="https://android-developers.googleblog.com"
+ target="_blank">Android Developers Official Blog</a>
 
-Medium 
-https://medium.com/androiddevelopers
+<a href="https://www.youtube.com/user/androiddevelopers"
+ target="_blank">Official YouTube of Android Developers</a>
 
-Android Developers Official Blog
-https://android-developers.googleblog.com/
 
-Android Developers Newsletter
-https://developer.android.com/subscribe
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
